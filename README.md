@@ -1,11 +1,7 @@
-# Pokedex-Angular
+# Angular Skeleton
 
-Implement a copy of [Pokedex](https://www.pokemon.com/us/pokedex) to learn [Angular](https://angular.io/)
+Angular 使うときの雛形
 
 ## License
 
 MIT
-
-## Reference
-
-- https://angular.io/docs
