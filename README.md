@@ -1,6 +1,6 @@
-# Angular Skeleton
+# Skeleton Angular
 
-![](https://github.com/sonohara/angular-skeleton/actions/workflows/ci.yml/badge.svg)
+![](https://github.com/sonohara/skeleton-angular/actions/workflows/ci.yml/badge.svg)
 
 Angular 使うときの雛形
 
